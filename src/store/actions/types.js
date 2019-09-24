@@ -1,0 +1,2 @@
+export const ACTION_GET_DATA = 'ACTION_GET_DATA';
+export const ACTION_ADD_DATA = 'ACTION_ADD_DATA';
